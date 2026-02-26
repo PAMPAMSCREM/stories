@@ -1,9 +1,16 @@
 /* styles.css */
 
 h1 {
+	font-family: "Patrick Hand";
 	font-size: 150px;
 	color: rgb(76, 185, 99);
 	
+}
+
+p {
+	font-family: "Manslava";
+	font-size: 20px;
+	color: white;
 }
 
 /* First NIGHT DRIVE Page START */
