@@ -41,11 +41,28 @@ h1 {
 /* 01.html END */
 
 /* 02.html Page START */
-
+.background-three {
+	
+}
 /* 02.html END */
+
+/* Fonts */
+.mansalva-regular {
+  font-family: "Mansalva", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.patrick-hand-regular {
+  font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+/* Fonts END */
 
 /* NOTES
 Beach Gif: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVxM3Q3b3h4Z2gwMjcwNzRiZXI0bGM3YzU5eHlxMWRnMnl4ODlkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDU90ROqt2cPuKY/giphy.gif'); 
-Night Drive GIF: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRpcWZhY29qMHRsM3kyN2Q4bXdqMDIwamdhbmZqdTVtczliaWQzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqcCJJJH12hJvGM/giphy.gif'); /* */
+Night Drive GIF: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRpcWZhY29qMHRsM3kyN2Q4bXdqMDIwamdhbmZqdTVtczliaWQzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqcCJJJH12hJvGM/giphy.gif'); 	
 
 */
+
