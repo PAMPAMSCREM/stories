@@ -14,7 +14,7 @@ p {
 }
 
 /* First NIGHT DRIVE Page START */
-#drive-page {
+.drive-page {
     background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVxM3Q3b3h4Z2gwMjcwNzRiZXI0bGM3YzU5eHlxMWRnMnl4ODlkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDU90ROqt2cPuKY/giphy.gif'); /* */
     background-color: #cccccc; /* Always set a background color as a fallback */
     background-repeat: no-repeat; /* Prevents the GIF from tiling if it's large enough */
@@ -34,7 +34,7 @@ p {
 /* First Page END */
 
 /* 01.html BEACH? Page START */
-#beach-page {
+.beach-page {
     background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhjc2gyZmtkcjY2bHIzYm43YWd2eGRqbmZhcTJzYW13MGQ4cTBmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqcCJJJH12hJvGM/giphy.gif'); /* */
     background-color: #000000; /* Always set a background color as a fallback */
     background-repeat: no-repeat; /* Prevents the GIF from tiling if it's large enough */
