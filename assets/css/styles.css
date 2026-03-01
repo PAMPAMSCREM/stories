@@ -4,15 +4,22 @@ h1 {
 	font-family: "Patrick Hand";
 	font-size: 150px;
 	color: rgb(255, 255, 252);
-	
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-left: 30px;
+	border-top: 10px;
 }
 
 p {
 	font-family: "Mansalva";
-	font-size: 20px;
+	font-size: 50px;
 	color: white;
 	padding-left: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	border-left: 30px;
+	border-top: 10px;
 }
 
 /* First NIGHT DRIVE Page START */
