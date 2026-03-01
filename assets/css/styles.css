@@ -76,6 +76,31 @@ p {
 }
 /* Fonts END */
 
+/* Pill Button */
+.pill-button, .pill-button-link {
+  background-color: #49434A; /* Example background color */
+  border: none;
+  color: white;
+  padding: 10px 20px; /* Adjust padding for height and width */
+  text-align: center;
+  text-decoration: none; /* Remove underline for links */
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 16px;
+  float: right;
+  border-radius: 9999px; /* A large value ensures a perfect pill shape regardless of padding/height */
+}
+
+.pill-button:hover, .pill-button-link:hover {
+  background-color: #27272B; /* Darker color on hover */
+}
+/* Pill Button END */
+
+
+
+
+
 /* NOTES
 Beach Gif: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhjc2gyZmtkcjY2bHIzYm43YWd2eGRqbmZhcTJzYW13MGQ4cTBmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqcCJJJH12hJvGM/giphy.gif 
 Drive GIF: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRpcWZhY29qMHRsM3kyN2Q4bXdqMDIwamdhbmZqdTVtczliaWQzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqcCJJJH12hJvGM/giphy.gif 	
