@@ -93,7 +93,7 @@ p {
 }
 
 .pill-button:hover, .pill-button-link:hover {
-  background-color: #27272B; /* Darker color on hover */
+  background-color: rgb(107, 170, 174); /* Darker color on hover */
 }
 /* Pill Button END */
 
