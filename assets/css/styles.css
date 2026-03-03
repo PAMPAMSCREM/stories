@@ -78,7 +78,7 @@ p {
 
 /* Pill Button */
 .pill-button, .pill-button-link {
-  background-color: #49434A; /* Example background color */
+  background-color: rgb(188, 227, 223); /* Example background color */
   border: none;
   color: white;
   padding: 10px 20px; /* Adjust padding for height and width */
