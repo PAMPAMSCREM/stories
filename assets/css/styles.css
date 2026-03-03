@@ -97,7 +97,17 @@ p {
 }
 /* Pill Button END */
 
+/* Core Memory Unlocked Animation */
+.ml2 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
 
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+/* Animation END */
 
 
 
