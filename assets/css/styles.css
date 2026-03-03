@@ -109,7 +109,11 @@ p {
 }
 /* Animation END */
 
-
+div {
+	text-align: center;
+	padding: 10px 20px;
+	margin: 4px 2px;
+}
 
 /* NOTES
 Beach Gif: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhjc2gyZmtkcjY2bHIzYm43YWd2eGRqbmZhcTJzYW13MGQ4cTBmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqcCJJJH12hJvGM/giphy.gif 
